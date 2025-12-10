@@ -134,3 +134,4 @@ dmypy.json
 *.pkl
 *.npy
 *.npz
+.DS_Store
